@@ -1,6 +1,6 @@
 baseURL = "https://foundation.llvm.org/"
 languageCode = "en-us"
-title = "The LLVM Foundation"
+title = "LLVM Foundation"
 theme = "book"
 
 disablePathToLower = true
