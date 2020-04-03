@@ -2,7 +2,7 @@
 title: Sponsors
 ---
 # Sponsors
-[Join our sponsors!](/documents/sponsorship/LLVMFoundation-Sponsorship-20190802.pdf)
+[Join our sponsors!](documents/sponsorship/LLVMFoundation-Sponsorship-20190802.pdf)
 
 ## Diamond Sponsors
 {{< columns >}}
