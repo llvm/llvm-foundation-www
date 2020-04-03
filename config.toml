@@ -4,7 +4,7 @@ title = "The LLVM Foundation"
 theme = "book"
 
 disablePathToLower = true
-# enableGitInfo = true
+enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
 [markup]
