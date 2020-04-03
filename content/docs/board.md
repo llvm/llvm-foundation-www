@@ -1,6 +1,5 @@
 ---
 title: Board of Directors
-bookToc: false
 ---
 
 # Board of Directors

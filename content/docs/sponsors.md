@@ -11,7 +11,7 @@ title: Sponsors
 
 <--->
 {{< figure src="/sponsors/quic-stack-version.jpg" caption="QuIC" link="http://www.quicinc.com/">}}
-
+ 
 {{< /columns >}}
 
 ## Platinum Sponsors
