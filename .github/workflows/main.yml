@@ -22,7 +22,7 @@ jobs:
 
     - name: Build Website
       run: (hugo --minify -d public &&
-            echo -n llvm-foundation.llvm.org > public/CNAME )
+            echo -n foundation.llvm.org > public/_CNAME )
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
