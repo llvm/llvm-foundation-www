@@ -1,4 +1,4 @@
-baseURL = "https://llvm.github.io/llvm-foundation-www/"
+baseURL = "https://foundation-new.llvm.org"
 languageCode = "en-us"
 title = "LLVM Foundation"
 theme = "book"
