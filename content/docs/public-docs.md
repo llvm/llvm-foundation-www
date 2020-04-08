@@ -12,7 +12,7 @@ Here you find all important documents related to the LLVM Foundation governance,
 
 ## Board Meeting Minutes
 {{< expand "2020" "..." >}}
- * [March 6, 2020](documents/minutes/2020-03-06.pdf)
+ * [March 6, 2020](/documents/minutes/2020-03-06.pdf)
  * February 7, 2020
  * January 10, 2020
 {{< /expand >}}

@@ -50,8 +50,8 @@ At this point, we have achieved community consensus on:
 *   The goals of the relicensing effort.
 *   License Full Name: "Apache 2.0 with LLVM Exception"
 *   [SPDX License Identifier](https://spdx.org/licenses/): "Apache-2.0 WITH LLVM-exception"
-*   The license text itself. This is [the expected LICENSE.TXT file](relicensing/LICENSE.txt).
-*   The revised LLVM [developer policy patch](relicensing/devpolicy.patch).
+*   The license text itself. This is [the expected LICENSE.TXT file](/relicensing/LICENSE.txt).
+*   The revised LLVM [developer policy patch](/relicensing/devpolicy.patch).
 
 We also have worked with our legal counsel to build several more boring pieces:
 
