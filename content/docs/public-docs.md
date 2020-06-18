@@ -19,12 +19,12 @@ Here you find all important documents related to the LLVM Foundation governance,
  * [January 10, 2020](/documents/minutes/2020-01-10-LLVMFoundation-BoardMeetingMinutes.pdf)
 {{< /expand >}}
 {{< expand "2019" "..." >}}
- * [December 6, 2019](/documents/minutes/2019-12-06-LLVMFoundation-BoardMeeting Minutes.pdf)
+ * [December 6, 2019](/documents/minutes/2019-12-06-LLVMFoundation-BoardMeetingMinutes.pdf)
  * [November 1,2019](/documents/minutes/2019-11-01-LLVMFoundation-BoardMeetingMinutes.pdf)
  * No Meeting in October due to Developers' Meeting
  * [September 6, 2019](/documents/minutes/2019-09-06-LLVMFoundation-BoardMeetingMinutes.pdf)
  * [August 2, 2019](/documents/minutes/2019-08-02-LLVMFoundation-BoardMeetingMinutes.pdf)
- * [July 12, 2019 -- no minutes were taken at this meeting
+ * July 12, 2019 -- no minutes were taken at this meeting
  * [June 14, 2019](/documents/minutes/2019-06-14.pdf)
  * [May 3, 2019](/documents/minutes/2019-05-03.pdf)
  * no meeting in April 2019
@@ -34,14 +34,14 @@ Here you find all important documents related to the LLVM Foundation governance,
 {{< /expand >}}
 {{< expand "2018" "..." >}}
  * no meeting in December 2018
- * November 2, 2018
- * October 5, 2018
- * September 14, 2018
- * August 3, 2018
- * July 9, 2018
- * June 1, 2018
- * March 2, 2018
- * January 19, 2018
+ * [November 2, 2018](/documents/minutes/2018-11-02.pdf)
+ * [October 5, 2018](/documents/minutes/2018-10-05.pdf)
+ * [September 14, 2018](/documents/minutes/2018-09-14.pdf)
+ * [August 3, 2018](/documents/minutes/2018-08-03.pdf)
+ * [July 9, 2018](/documents/minutes/2018-07-09-LLVMFoundationBoardMinutes.pdf)
+ * [June 1, 2018](/documents/minutes/2018-06-01-LLVMFoundationBoardMinutes.pdf)
+ * [March 2, 2018](/documents/minutes/2018-03-02.pdf)
+ * [January 19, 2018](/documents/minutes/2018-01-19.pdf)
 {{< /expand >}} 
 {{< expand "2017" "..." >}}
  * November 3, 2017
