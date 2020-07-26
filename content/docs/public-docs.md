@@ -86,7 +86,7 @@ Here you find all important documents related to the LLVM Foundation governance,
  * Application for 501(c)(3) tax-exempt status
 
 ## Tax Returns and Financial Information
- * Financial Reports
+ * [Financial Reports](/docs/finance.md)
  * 2016 Outlook and Budget
  * 2014 IRS Form 990
  * 2014 CA Form 199
