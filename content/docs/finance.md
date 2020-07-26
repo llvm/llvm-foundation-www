@@ -13,49 +13,49 @@ This section contains all the Monthly and Annual Financial reports published by 
   {{< expand "December 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/12_December/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/12_December/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "November 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/11_November/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/11_November/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "October 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/10_October/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/10_October/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "September 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/9_September/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/9_September/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "August 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/8_August/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/8_August/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "July 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/7_July/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/7_July/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "June 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/6_June/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/6_June/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "May 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/5_May/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/5_May/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "April 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/4_April/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/4_April/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "March 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/3_March/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/3_March/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "February 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/2_February/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/2_February/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
   {{< expand "January 2019" "..." >}}
     * [Budget Detial](/documents/finance/statements/2019/1_January/LLVM_Foundation_-_Budget_Detail.pdf)
     * [Monthly Reports](/documents/finance/statements/2019/1_January/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{ < /expand >}}
+  {{< /expand >}}
 {{< /expand >}}
