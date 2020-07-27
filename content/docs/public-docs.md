@@ -82,12 +82,12 @@ Here you find all important documents related to the LLVM Foundation governance,
 {{< /expand >}}
 
 ## Tax Exempt Status
- * IRS determination letter
- * Application for 501(c)(3) tax-exempt status
+ * [IRS determination letter](/documents/other/LLVMFoundation-DeterminationLetter.pdf)
+ * [Application for 501(c)(3) tax-exempt status](/documents/other/LLVMFoundation-1023.pdf)
 
 ## Tax Returns and Financial Information
  * [Financial Reports](/docs/finance.md)
- * 2016 Outlook and Budget
- * 2014 IRS Form 990
- * 2014 CA Form 199
- * 2014 CA Form RRF-1
+ * [2016 Outlook and Budget](/documents/other/2016-LLVMFoundation-Outlook-Budget.pdf)
+ * [2014 IRS Form 990](/documents/other/2014-LLVMFoundation990.pdf)
+ * [2014 CA Form 199](/documents/other/2014-LLVMFoundationCA199.pdf)
+ * [2014 CA Form RRF-1](/documents/other/2014-LLVMFoundationRRF-1.pdf)

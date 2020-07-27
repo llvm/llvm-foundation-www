@@ -3,11 +3,30 @@ title: Public Documents
 bookToc: true
 ---
 # LLVM Foundation Financial Documents
-This section contains all the Monthly and Annual Financial reports published by the Foundation. 
+This section contains all the Monthly and Annual Financial Reports published by the Foundation. 
 
 ## Monthly Financial Reports
 {{< expand "2020" "..." >}}
- * 2020 Reports go here...
+  {{< expand "May 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/5_May/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/5_May/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
+  {{< expand "April 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/4_April/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/4_April/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
+  {{< expand "March 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/3_March/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/3_March/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
+  {{< expand "February 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/2_February/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/2_February/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
+  {{< expand "January 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/1_January/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/1_January/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
 {{< /expand >}}
 {{< expand "2019" "..." >}}
   {{< expand "December 2019" "..." >}}
