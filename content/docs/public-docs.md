@@ -8,7 +8,7 @@ Here you find all important documents related to the LLVM Foundation governance,
 ## Governance
  * [Articles of Incorporation](/documents/other/CertifiedAR-Articles-of-Incorporation.pdf)
  * [Bylaws](/documents/other/LLVMF-Bylaws.pdf)
- * [Conflict of Interest Policy](/documents/other/LLVMF Conflict of Interest Policy (00591778-2).pdf)
+ * [Conflict of Interest Policy](/documents/other/LLVMF-Conflict-of-Interest-Policy-00591778-2.pdf)
 
 ## Board Meeting Minutes
 {{< expand "2020" "..." >}}
