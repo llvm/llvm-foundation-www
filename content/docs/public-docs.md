@@ -6,9 +6,9 @@ bookToc: true
 Here you find all important documents related to the LLVM Foundation governance, board meeting minutes, tax exemption status, and tax returns.
 
 ## Governance
- * Articles of Incorporation
- * Bylaws
- * Conflict of Interest Policy
+ * [Articles of Incorporation](/documents/other/CertifiedAR-Articles of Incorporation.pdf)
+ * [Bylaws](/documents/other/LLVMF Bylaws.pdf)
+ * [Conflict of Interest Policy](/documents/other/LLVMF Conflict of Interest Policy (00591778-2).pdf)
 
 ## Board Meeting Minutes
 {{< expand "2020" "..." >}}
