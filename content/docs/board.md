@@ -16,15 +16,15 @@ members are expected to participate with and drive efforts aligned with the
 mission and three programs above. Officers of the Board (Secretary, Treasurer,
 President) have additional duties and time commitments.
 
-The current 2018-2020 LLVM Foundation Board of Directors:
+The current 2020-2022 LLVM Foundation Board of Directors:
 
- * Chandler Carruth
+ * Kit Barton
+ * Kristof Beyls
  * Mike Edwards (Treasurer)
  * Hal Finkel
- * Arnaud de Grandmaison
+ * Cyndy Ishida
  * Anton Korobeynikov
  * Tanya Lattner (President)
  * Chris Lattner
- * John Regehr (Secretary)
- * Tom Stellard
+ * Tom Stellard (Secretary)
 
