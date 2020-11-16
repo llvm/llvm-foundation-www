@@ -2,14 +2,9 @@
 title: Infrastructure Working Group
 bookToc: true
 ---
-# Infrastructure Working Group
+# Infrastructure Working Group (in the course of formation)
 The infrastructure working group (IWG) understands the needs and pains of the 
 community and shapes the project infrastructure to meet these needs. 
-
-The focus of the IWG will be on identifying, designing and agreeing on 
-infrastructure improvements. The implementation of the changes and the 
-operations of our infrastructure can be offloaded to community members or 
-contractors. This way we keep the workload for the working group low.
 
 ## Scope
 
@@ -28,6 +23,16 @@ The working group will work on the LLVM project infrastructure including:
 
 
 ## Working group members
+
+The focus of IWG members will be on identifying, designing and agreeing on 
+infrastructure improvements. The implementation of the changes and the 
+operations of our infrastructure can be offloaded to community members or 
+contractors. This way we keep the workload for the working group low.
+
+Working group members should have the oppurtunity to dedicate 4-8 hours per 
+week on a regular basis in the initial phase, as we expect to have a significant 
+pile of decisions to take. It should be less than 4 hours once the roadmap has 
+become more stable.
 
 We would like to have broad and diverse community representation within the 
 working group as we are convinced such groups deliver the best results. Please
@@ -62,7 +67,7 @@ parts of the SOW are not clear or feasible.
 1. The working group will create an statement of work (SOW) based on the  
    proposals they want to move forward onit. The SOW will consist of a problem 
    description and (functional and non-functional) requirements for a solution 
-   of the problem. The SOW shall be made public and discusses with the 
+   of the problem. The SOW shall be made public and discussed with the 
    community.
 1. Once the SOW and it’s costs are clear enough, the working group will decide 
    if and how it shall be implemented (community contribution, paid community 
@@ -82,6 +87,25 @@ members are welcome to take over certain SOWs and will get help from the
 respective contractor if needed. If that work touches shared infrastructure or 
 impacts the future maintenance, the solution needs to be agreed with the 
 working group and the contractor.
+
+## Proposal for implementation and operations
+
+To keep the workload for the IWG low, the implementation of changes shall be 
+mostly done by a 3rd party. 
+
+*Operations of services* shall be done by contractors with whom we can have
+Service Level Agreements (availibility, response times, recovery time, 
+handling GDPR requests, ...).
+
+For *implementing changes* there are a few options:
+* Community volunteers: There is someone from the community willing to 
+  implement the change.
+* Community bounty: We're offering a bounty for a community member to implement
+  the change. This is a chance to give back something to community members
+  who are not paid for their contirbutions by some entity.
+* Contractor: In case something is very large or we can't find anyone to do it
+  the work can be handed off to a contractor.
+
 
 
 ## Ideas for initial work items
@@ -134,6 +158,9 @@ This is an unsorted list of ideas the working group could look into:
   * Set up some central source of truth for managing user accounts, group
     membership and user/group permissions. Then configure all tools 
     accordingly.
+* Investigate if/where we need to have Terms of Service and Pricacy Agreements.
+* Figure out where we need to be able to handle GDPR-related requests and
+  how that could be done.
 
 ## Links
 * issue tracker and Kanban board (to be created)
