@@ -6,5 +6,6 @@ headless: true
 - [Public Documents]({{< relref "/docs/public-docs" >}})
 - [Sponsors]({{< relref "/docs/sponsors" >}})
 - [Relicensing]({{< relref "/docs/relicensing" >}})
+- [Renaming]({{< relref "/docs/branch-rename" >}})
 <br />
 - [Contact Us](mailto://board@llvm.org)
