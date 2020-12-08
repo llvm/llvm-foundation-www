@@ -29,7 +29,7 @@ On December 7, 2020:
 * In parallel we will begin to work through the rest of the llvm organization repositories to update branch names as well
 * We will update the developer policy to reflect the change in workflow
 
-On January 7, 2021:
+On January 28th, 2021:
 * We will remove the ‘master’ branch from all repositories in the llvm organization
 
 As we work towards December 7, 2020 we are going to set up a test of this system on a fork of the llvm-project
@@ -38,6 +38,32 @@ We expect the llvm-project repository to be unavailable to developers for approx
 switch is made. Lockout will occur promptly at 06:00GMT on the 7th. Certainly if we finish sooner, we will
 update llvm-dev to let everyone know the repository is available for use once again.
 
+
+## Instructions
+
+It was noted on the mailing list it might be helpful to include some basic instructions for anyone 
+needing assistance with migrating to the new 'main' branch.  Here are two examples of steps one
+might take to accomplish this task:
+
+In my local llvm-project directory:
+
+    $ git fetch origin
+    $ git checkout origin/main -b main
+
+When you are ready to remove your local 'master' branch run:
+
+    $ git branch -d master
+
+Here is an alternative approach provided by Mehdi Amini
+
+    # if not already on the master branch
+    $ git checkout master
+
+    # Rename the branch locally
+    $ git branch -m main
+
+    # Update the tracking so that `git pull`/`git push` lookup the remote main
+    $ git branch -u origin/main
 
 ## Status
 
@@ -58,3 +84,9 @@ in sync with the master branch
 * LLVMBOT is now keeping main in sync with master
 * Unless any major issues are encountered in the next few days, we are on track to 
 swap the default branch to main on December 7 as expected
+
+#### As of 2020.12.07
+* We have updated the llvm-project repository to use the 'main' branch by default
+* We have corrected issues with the commit mail-list integration
+* The 'master' branch is now in read-only mode and will remain so until January 28th, 2021
+* We are beginning to work through documentation and other projects in the llvm org to get them updated as well
