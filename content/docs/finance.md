@@ -7,6 +7,10 @@ This section contains all the Monthly and Annual Financial Reports published by 
 
 ## Monthly Financial Reports
 {{< expand "2020" "..." >}}
+  {{< expand "September 2020" "..." >}}
+   * [Budget Detail](/documents/finance/statements/2020/9_September/LLVM_Foundation_-_Budget_Detail.pdf)
+   * [Monthly Reports](/documents/finance/statements/2020/9_September/LLVM_Foundation_-_Monthly_Reports.pdf)
+  {{< /expand >}}
   {{< expand "August 2020" "..." >}}
    * [Budget Detail](/documents/finance/statements/2020/8_August/LLVM_Foundation_-_Budget_Detail.pdf)
    * [Monthly Reports](/documents/finance/statements/2020/8_August/LLVM_Foundation_-_Monthly_Reports.pdf)
