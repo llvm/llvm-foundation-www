@@ -188,3 +188,5 @@ into:
 * issue tracker and Kanban board (to be created)
 * Discourse channel (to be created)
 * Email account (to be created)
+* Original proposal ([Google Doc](https://docs.google.com/document/d/1T7dJ9DgrgaJHN1RZ5vhJJ2D9CBwMQl6lOdN41QPsnAg/), 
+  [PDF Export](/static/documents/infra-wg/Proposal_Infrastructure_Working_Group_2020-01-11.pdf))
