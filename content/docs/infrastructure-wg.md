@@ -145,6 +145,7 @@ into:
   * Pre-merge testing
   * Buildbot workers
   * clangd remote index for LLVM
+  * [LNT service](http://lnt.llvm.org/)
   * ...
 * Create new design and structure for the LLVM website, migrate the existing 
   content there.
