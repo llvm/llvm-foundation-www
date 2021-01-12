@@ -1,0 +1,24 @@
+name: markdown lint
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: install markdownlint-cli
+      run: |
+        sudo apt-get install npm
+        npm install markdownlint-cli
+
+    - name: lint markdown files
+      # conly scan the /content folder
+      run: node_modules/.bin/markdownlint content

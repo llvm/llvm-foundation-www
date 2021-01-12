@@ -1,8 +1,8 @@
 ---
 title: Board of Directors
 ---
-
 # Board of Directors
+
 The Board of Directors consists of 8 members serving 2 year terms, which then
 elect the next set of board members. In terms of time commitment, the board
 typically meets every month for 2 hours and every board member should plan on
@@ -18,13 +18,12 @@ President) have additional duties and time commitments.
 
 The current 2020-2022 LLVM Foundation Board of Directors:
 
- * Kit Barton
- * Kristof Beyls
- * Mike Edwards (Treasurer)
- * Hal Finkel
- * Cyndy Ishida
- * Anton Korobeynikov
- * Tanya Lattner (President)
- * Chris Lattner
- * Tom Stellard (Secretary)
-
+* Kit Barton
+* Kristof Beyls
+* Mike Edwards (Treasurer)
+* Hal Finkel
+* Cyndy Ishida
+* Anton Korobeynikov
+* Tanya Lattner (President)
+* Chris Lattner
+* Tom Stellard (Secretary)
