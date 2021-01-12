@@ -6,6 +6,9 @@ bookToc: true
 The infrastructure working group (IWG) understands the needs and pains of the 
 community and shapes the project infrastructure to meet these needs. 
 
+*Note:* This page is an initial proposal. We will improve our setup and work
+mode as we go along and gain experience.
+
 ## Scope
 
 The working group will work on the LLVM project infrastructure including:
@@ -188,6 +191,6 @@ into:
 ## Links
 * issue tracker and Kanban board (to be created)
 * Discourse channel (to be created)
-* Email account (to be created)
-* Original proposal ([Google Doc](https://docs.google.com/document/d/1T7dJ9DgrgaJHN1RZ5vhJJ2D9CBwMQl6lOdN41QPsnAg/), 
-  [PDF Export](/static/documents/infra-wg/Proposal_Infrastructure_Working_Group_2020-01-11.pdf))
+* Email address: [iwg@llvm.org](mailto:iwg@llvm.org)
+* Original proposal: ([Google Doc](https://docs.google.com/document/d/1T7dJ9DgrgaJHN1RZ5vhJJ2D9CBwMQl6lOdN41QPsnAg/), 
+  [PDF Export](/static/documents/iwg/Proposal_Infrastructure_Working_Group_2020-01-11.pdf))
