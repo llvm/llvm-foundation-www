@@ -90,3 +90,9 @@ swap the default branch to main on December 7 as expected
 * We have corrected issues with the commit mail-list integration
 * The 'master' branch is now in read-only mode and will remain so until January 28th, 2021
 * We are beginning to work through documentation and other projects in the llvm org to get them updated as well
+
+#### As of 2021.01.11
+* We are working through the remaining repositories in the LLVM GitHub organization
+* llvm-lnt & llvm-testsuite were updated to use main today
+* We have sent emails out to other repository owners to enlist their assitance with renaming
+* We still look good to have this effort wrapped up by the 28th of this month
