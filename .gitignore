@@ -1,1 +1,9 @@
 resources
+
+# Visual Studio Code config files
+.vscode
+
+# files from npm package manager
+/package.json
+/package-lock.json
+/node_modules
