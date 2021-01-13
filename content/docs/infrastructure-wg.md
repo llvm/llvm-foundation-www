@@ -48,14 +48,14 @@ Useful skill to bring to the committee or aquire while working there:
 * Understanding needs of contributors and downstream users
 * IT security and privacy
 * Coordinating work in Open Source Projects
-* Tools and technologies technologies currently used in the Infrastracture
+* Tools and technologies currently used in the Infrastracture
   (e.g. Mailman, AWS, GCP, Sphinx, GitHub, WWW development, buildbots,
   Phabricator, ...)
 
 Initial members:
 
 * Christian Kühnel
-* ... we're recruting plese contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
+* ... we're recruting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
 ## Proposal for getting started
 
@@ -93,7 +93,8 @@ parts of a statement of work (SOW) are not clear or feasible.
    if and how it shall be implemented (community contribution, paid community
    bounty, contractor)
     1. If it requires spending money, the working group will propose the change
-       to the board.
+       to the board and go through an Request for Proposal process (RFP). The
+       details of that RFP process need to be worked out.
     1. The board will then review and approve the expenditure.
     1. The Foundation will set up the contract and manage the payments.
 1. The working group will work with the contractor/community on a day-to-day
@@ -130,7 +131,8 @@ For *implementing individual changes* there are a few options:
 ## Ideas for initial work items
 
 This is an unsorted, unprioritized list of ideas the working group could look
-into:
+into. Once we have set up some task management tool (probably GitHub Issues)
+this list shall be migrated there, so we can discuss these one-by-one.
 
 * Run a survey in the community to understand the largest pain points and
   prioritze potential improvements.
@@ -142,10 +144,13 @@ into:
   infrastructure look like?
 * Identify the need for addons for Github the community is missing right now
   (e.g. subscribing to labels on Github Issues).
-* Come to a decision on using Phabricator vs. GitHub Pull Requests for code
-  reviews, then implement the change.
+* Help the community come to a decision on using Phabricator vs. GitHub Pull
+  Requests for code reviews, then implement the change.
 * Create a roadmap for the handover of the existing infrastructure to a
-  contractor. Components ready for immediate takeover:
+  contractor. We need to review each one and decide if it makes sense
+  to take them over as they are, drop them, or replace them with something else.
+  A list of services where the respective maintainer would like to hand over
+  the maintainance work to the LLVM foundation:
   * Phabricator (in case we stay with it)
   * Pre-merge testing
   * Buildbot workers
@@ -156,15 +161,23 @@ into:
   content there.
 * Create a test strategy for the LLVM project and refactor the existing build
   infrastructure to meet the new test strategy. Some ideas:
+  * Extend/improve pre-merge testing: reduce false-positives, have better
+    integration with post-merge testing, cover more configurations, improve
+    performance, ...
   * Multi-stage CI: run “cheap” builds first, run “expensive” builds only on
     commits where the cheap builds have passed.
   * Set up a collector dashboard showing build results for all CI systems per
     commit, e.g. Treeherder or something GitHub based.
   * Investigate if we can get a good deal from GitHub Actions with sponsored
-    hardware.
+    hardware, similar to
+    [Rust](https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html).
   * Create a plan of the "important" buildbot configuration we need in order to
     detect the bugs with large impact (contributors and downstream). Then have
     one central team/contractor operate these to ensure consistency and quality.
+  * Introduce a `green` branch in git, merge the `main` branch whenever a set of
+    CI checks passes on `main`. So `green` is only a few commits behind `main`,
+    no direct pushes, not cherry-picking. This branch cen be used for cases
+    where people prefere stability over the latest version.
 * Gather user feedback on the existing infrastructure: Where are the pain
   points? What would our community like to see improved?
 * Migration of all python scripts and tools to Python 3 as Python 2 is
