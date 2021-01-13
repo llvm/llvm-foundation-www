@@ -140,7 +140,7 @@ into:
   infrastructure look like?
 * Identify the need for addons for Github the community is missing right now 
   (e.g. subscribing to labels on Github Issues).
-* Come to a decision on using Phabricator vs. GitHub Pull Requests for code
+* Help the Community to come to a decision on using Phabricator vs. GitHub Pull Requests for code
   reviews, then implement the change.
 * Create a roadmap for the handover of the existing infrastructure to a 
   contractor. Components ready for immediate takeover:
