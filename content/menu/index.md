@@ -1,8 +1,7 @@
 ---
 headless: true
 ---
-
-#
+<!-- markdownlint-disable -->
 
 - [Board of Directors]({{< relref "/docs/board" >}})
 - [Public Documents]({{< relref "/docs/public-docs" >}})
@@ -10,6 +9,5 @@ headless: true
 - [Relicensing]({{< relref "/docs/relicensing" >}})
 - [Renaming]({{< relref "/docs/branch-rename" >}})
 
-##
 
 - [Contact Us](mailto://board@llvm.org)
