@@ -1,4 +1,3 @@
 {
-  "markdownlint.ignore": [ "content/docs/sponsors.md" ],
   "MD025": false
 }

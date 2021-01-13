@@ -1,6 +1,7 @@
 ---
 title: Sponsors
 ---
+<!-- markdownlint-disable -->
 
 # Sponsors
 
