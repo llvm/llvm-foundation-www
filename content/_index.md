@@ -4,14 +4,16 @@ bookToc: false
 ---
 
 # Overview
+
 The LLVM Foundation is a 501(c)(3) nonprofit whose mission is to support
 education and advancement of the field of compilers and tools through
 educational events, grants and scholarships, and increasing diversity with the
 field of compilers, tools, and the LLVM project. We have established 3 main
-programs: 
-  * Educational Outreach
-  * Grants & Scholarships 
-  * Women in Compilers & Tools.
+programs:
+
+* Educational Outreach
+* Grants & Scholarships
+* Women in Compilers & Tools.
 
 The Educational Outreach program is our largest program and includes educational
 materials and events related to the LLVM Project, compiler technology, and

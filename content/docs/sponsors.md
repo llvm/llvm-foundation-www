@@ -1,10 +1,13 @@
 ---
 title: Sponsors
 ---
+
 # Sponsors
+
 [Join our sponsors!](/documents/sponsorship/LLVMFoundation-Sponsorship-20190802.pdf)
 
 ## Diamond Sponsors
+
 {{< columns >}}
 
 {{< figure src="/sponsors/Apple_Logo.svg" caption="Apple" link="http://apple.com" width="50%">}}
@@ -15,6 +18,7 @@ title: Sponsors
 {{< /columns >}}
 
 ## Platinum Sponsors
+
 {{< columns >}}
 
 {{< figure src="/sponsors/Google-logo_420_color_2x.png" caption="Google" link="http://www.google.com">}}
@@ -31,6 +35,7 @@ title: Sponsors
 
 
 ## Gold Sponsors
+
 {{< columns >}}
 
 {{< figure src="/sponsors/Arm_logo_blue_150LG.png" caption="ARM" link="http://www.arm.com">}}
