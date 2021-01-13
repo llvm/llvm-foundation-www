@@ -1,26 +1,22 @@
 <!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="LLVM Relicensing Effort The LLVM relicensing effort aims to modernize the LLVM Licensing structure and developer policy. The high level goals of the relicensing effort are to:
- Encourage ongoing contributions to LLVM by preserving a low barrier to entry for contributors. Protect users of LLVM code by providing explicit patent protection in the license. Protect contributors to the LLVM project by explicitly scoping their patent contributions with this license. Eliminate the schism between runtime libraries and the rest of the compiler that makes it difficult to move code between them."><meta property="og:title" content="Relicensing"><meta property="og:description" content="LLVM Relicensing Effort The LLVM relicensing effort aims to modernize the LLVM Licensing structure and developer policy. The high level goals of the relicensing effort are to:
- Encourage ongoing contributions to LLVM by preserving a low barrier to entry for contributors. Protect users of LLVM code by providing explicit patent protection in the license. Protect contributors to the LLVM project by explicitly scoping their patent contributions with this license. Eliminate the schism between runtime libraries and the rest of the compiler that makes it difficult to move code between them."><meta property="og:type" content="article"><meta property="og:url" content="https://foundation.llvm.org/docs/relicensing/"><meta property="article:modified_time" content="2020-04-08T21:52:55+03:00"><title>Relicensing | LLVM Foundation</title><link rel=icon href=/favicon.png type=image/x-icon><link rel=stylesheet href=/book.min.915e4f047d9f1cd9a6300c996734a31937e0e43c15c79099c864c4683c065cee.css integrity="sha256-kV5PBH2fHNmmMAyZZzSjGTfg5DwVx5CZyGTEaDwGXO4="><script defer src=/en.search.min.bc3876f61276e88729ce3fdcb4e13849ac8a6af15b8f14c3fc01306832561a88.js integrity="sha256-vDh29hJ26Icpzj/ctOE4SayKavFbjxTD/AEwaDJWGog="></script></head><body><input type=checkbox class=hidden id=menu-control><main class="container flex"><aside class=book-menu><nav><h2 class=book-brand><a href=/><img src=/logo.png alt=Logo><span>LLVM Foundation</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><a href=/docs/board/>Board of Directors</a></li><li><a href=/docs/public-docs/>Public Documents</a></li><li><a href=/docs/sponsors/>Sponsors</a></li><li><a href=/docs/relicensing/ class=active>Relicensing</a></li><li><a href=/docs/branch-rename/>Renaming</a><br></li><li><a href=mailto://board@llvm.org>Contact Us</a></li></ul></nav><script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/svg/menu.svg class=book-icon alt=Menu></label>
+ Encourage ongoing contributions to LLVM by preserving a low barrier to entry for contributors Protect users of LLVM code by providing explicit patent protection in the license Protect contributors to the LLVM project by explicitly scoping their patent contributions with this license Eliminate the schism between runtime libraries and the rest of the compiler that makes it difficult to move code between them Ensure that LLVM runtime libraries may be used by other open source and proprietary compilers  This project involves sensitive legal issues and has been a multi-year effort."><meta property="og:title" content="Relicensing"><meta property="og:description" content="LLVM Relicensing Effort The LLVM relicensing effort aims to modernize the LLVM Licensing structure and developer policy. The high level goals of the relicensing effort are to:
+ Encourage ongoing contributions to LLVM by preserving a low barrier to entry for contributors Protect users of LLVM code by providing explicit patent protection in the license Protect contributors to the LLVM project by explicitly scoping their patent contributions with this license Eliminate the schism between runtime libraries and the rest of the compiler that makes it difficult to move code between them Ensure that LLVM runtime libraries may be used by other open source and proprietary compilers  This project involves sensitive legal issues and has been a multi-year effort."><meta property="og:type" content="article"><meta property="og:url" content="https://foundation.llvm.org/docs/relicensing/"><meta property="article:modified_time" content="2021-01-12T18:03:48-08:00"><title>Relicensing | LLVM Foundation</title><link rel=icon href=/favicon.png type=image/x-icon><link rel=stylesheet href=/book.min.915e4f047d9f1cd9a6300c996734a31937e0e43c15c79099c864c4683c065cee.css integrity="sha256-kV5PBH2fHNmmMAyZZzSjGTfg5DwVx5CZyGTEaDwGXO4="><script defer src=/en.search.min.b47cb2c63988b8d37d475c6b498bbf59c51b53e138af0e7bf1889d77a4865ded.js integrity="sha256-tHyyxjmIuNN9R1xrSYu/WcUbU+E4rw578Yidd6SGXe0="></script></head><body><input type=checkbox class=hidden id=menu-control><main class="container flex"><aside class=book-menu><nav><h2 class=book-brand><a href=/><img src=/logo.png alt=Logo><span>LLVM Foundation</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><p><a href=/docs/board/>Board of Directors</a></p></li><li><p><a href=/docs/public-docs/>Public Documents</a></p></li><li><p><a href=/docs/sponsors/>Sponsors</a></p></li><li><p><a href=/docs/relicensing/ class=active>Relicensing</a></p></li><li><p><a href=/docs/branch-rename/>Renaming</a></p></li><li><p><a href=mailto://board@llvm.org>Contact Us</a></p></li></ul></nav><script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/svg/menu.svg class=book-icon alt=Menu></label>
 <strong>Relicensing</strong>
 <label for=toc-control><img src=/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><input type=checkbox class=hidden id=toc-control><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#llvm-relicensing-effort>LLVM Relicensing Effort</a><ul><li><a href=#status-and-documents>Status and Documents</a></li><li><a href=#new-file-header>New File Header</a></li><li><a href=#individual-relicensing-agreement>Individual Relicensing Agreement</a></li><li><a href=#corporate-relicensing-agreement>Corporate Relicensing Agreement</a></li><li><a href=#next-steps-and-schedule-estimate>Next Steps and Schedule Estimate</a></li></ul></li></ul></nav></aside></header><article class=markdown><h1 id=llvm-relicensing-effort>LLVM Relicensing Effort</h1><p>The LLVM relicensing effort aims to modernize the LLVM Licensing structure and
 developer policy. The high level goals of the relicensing effort are to:</p><ul><li>Encourage ongoing contributions to LLVM by preserving a low barrier to entry
-for contributors.</li><li>Protect users of LLVM code by providing explicit patent protection in the
-license.</li><li>Protect contributors to the LLVM project by explicitly scoping their patent
-contributions with this license.</li><li>Eliminate the schism between runtime libraries and the rest of the compiler
-that makes it difficult to move code between them.</li><li>Ensure that LLVM runtime libraries may be used by other open source and
-proprietary compilers.</li></ul><p>This project involves sensitive legal issues and has been a multi-year
+for contributors</li><li>Protect users of LLVM code by providing explicit patent protection in the
+license</li><li>Protect contributors to the LLVM project by explicitly scoping their patent
+contributions with this license</li><li>Eliminate the schism between runtime libraries and the rest of the compiler
+that makes it difficult to move code between them</li><li>Ensure that LLVM runtime libraries may be used by other open source and
+proprietary compilers</li></ul><p>This project involves sensitive legal issues and has been a multi-year
 effort. The primary public discussions have included these mailing list threads:</p><ul><li>October 19, 2015:
-<a href=http://lists.llvm.org/pipermail/llvm-dev/2015-October/091536.html>Initial license draft
-proposal</a>.</li><li>September 12, 2016:
-<a href=http://lists.llvm.org/pipermail/llvm-dev/2016-September/104778.html>Second license
-draft</a>,
-resolving GPL2 compatibility concerns.</li><li>April 17, 2017:
-<a href=http://lists.llvm.org/pipermail/llvm-dev/2017-April/112142.html>Third license
-draft</a>,
-which resolved concern about use of LLVM runtimes with proprietary
-toolchains.</li><li>August 7, 2017:
-<a href=http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html>LLVM Developer Policy
-wording</a>.</li></ul><p>Beyond that, these topics have also been discussed by, and include contributions
+<a href=http://lists.llvm.org/pipermail/llvm-dev/2015-October/091536.html>Initial license draft proposal</a></li><li>September 12, 2016:
+<a href=http://lists.llvm.org/pipermail/llvm-dev/2016-September/104778.html>Second license draft</a>
+, resolving GPL2 compatibility concerns</li><li>April 17, 2017:
+<a href=http://lists.llvm.org/pipermail/llvm-dev/2017-April/112142.html>Third license draft</a>
+, which resolved concern about use of LLVM runtimes with proprietary
+toolchains</li><li>August 7, 2017:
+<a href=http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html>LLVM Developer Policy wording</a></li></ul><p>Beyond that, these topics have also been discussed by, and include contributions
 from, over a dozen lawyers and key LLVM contributors, and have been discussed
 informally with hundreds of people in the LLVM Developer Meeting BoFs. The
 effort has been overseen by Heather Meeker, who is the LLVM Foundation’s legal
@@ -30,27 +26,27 @@ please email the
 list</a> or the
 <a href=mailto://board@llvm.org>LLVM
 Foundation Board</a> depending on the sensitivity of your
-email.</p><h2 id=status-and-documents>Status and Documents</h2><p>At this point, we have achieved community consensus on:</p><ul><li>The goals of the relicensing effort.</li><li>License Full Name: &ldquo;Apache 2.0 with LLVM Exception&rdquo;</li><li><a href=https://spdx.org/licenses/>SPDX License Identifier</a>: &ldquo;Apache-2.0 WITH LLVM-exception&rdquo;</li><li>The license text itself. This is
-<a href=/relicensing/LICENSE.txt>the expected LICENSE.TXT file</a>.</li><li>The revised LLVM
-<a href=/relicensing/devpolicy.patch>developer policy patch</a>.</li></ul><p>We also have worked with our legal counsel to build several more boring pieces:</p><ul><li>A new top-of-file header block that is minimal and includes the relevant and
-important information about the new license.</li><li>An individual agreement to relicense and a form to collect information
-necessary for completing the relicensing.</li><li>A corporate agreement to relicense that is available for companies to sign
-and has begun to be distributed to some of the known and/or large
-contributors.</li></ul><p>We currently plan to install the new developer policy and add the new license in
+email.</p><h2 id=status-and-documents>Status and Documents</h2><p>At this point, we have achieved community consensus on:</p><ul><li>The goals of the relicensing effort</li><li>License Full Name: &ldquo;Apache 2.0 with LLVM Exception&rdquo;</li><li><a href=https://spdx.org/licenses/>SPDX License Identifier</a>:
+&ldquo;Apache-2.0 WITH LLVM-exception&rdquo;</li><li>The license text itself. This is
+<a href=/relicensing/LICENSE.txt>the expected LICENSE.TXT file</a></li><li>The revised LLVM
+<a href=/relicensing/devpolicy.patch>developer policy patch</a></li></ul><p>We also have worked with our legal counsel to build several more boring pieces:</p><ul><li>A new top-of-file header block that is minimal and includes the relevant and
+important information about the new license</li><li>An individual agreement to relicense and a form to collect information
+necessary for completing the relicensing</li><li>A corporate agreement to relicense that is available for companies to sign
+and has begun to be distributed to some of the known and/or large contributors</li></ul><p>We currently plan to install the new developer policy and add the new license in
 January 2019 after the LLVM 8.0 release has branched.</p><p>Once that is done, we will still need need to:</p><ul><li>Enact a process for getting 100% of existing code relicensed with the above
-agreements or rewrite/remove the code.</li><li>Drop the old license when the entire codebase is covered under the new
-license.</li></ul><h2 id=new-file-header>New File Header</h2><p>The new file header will be:</p><pre><code>//===-- file/name - File description ----------------------------\*- C++ -\*-===//
+agreements or rewrite/remove the code</li><li>Drop the old license when the entire codebase is covered under the new
+license</li></ul><h2 id=new-file-header>New File Header</h2><p>The new file header will be:</p><pre><code>//===-- file/name - File description ----------------------------\*- C++ -\*-===//
 //
 // Part of the LLVM Project, under the Apache License v2.0 with LLVM Exceptions.
 // See https://llvm.org/LICENSE.txt for license information.
 // SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 //
 //===----------------------------------------------------------------------===//
-</code></pre><p>Some notable aspects of the new header:</p><ul><li>There is no explicit copyright notice &ndash; these had little value and tended
-to not be maintained.</li><li>It is designed to be as compact and minimalist as possible while having the
+</code></pre><p>Some notable aspects of the new header:</p><ul><li><p>There is no explicit copyright notice &ndash; these had little value and tended
+to not be maintained</p></li><li><p>It is designed to be as compact and minimalist as possible while having the
 critical information: that it is part of LLVM, what license it is under,
 where to find that license, and the machine-scrapable SPDX markup to help
-people doing license audits.</li></ul><h2 id=individual-relicensing-agreement>Individual Relicensing Agreement</h2><p>Individuals need to complete
+people doing license audits</p></li></ul><h2 id=individual-relicensing-agreement>Individual Relicensing Agreement</h2><p>Individuals need to complete
 <a href=https://goo.gl/forms/X4HiyYRcRHOnTSvC3>a web
 form</a> that we will use to drive the
 relicensing process. Part of that form will prompt them with a DocuSign
@@ -67,19 +63,19 @@ expensive. Still, we are leaving all of the options open.</p><p>Feel free to sen
 <a href=mailto://llvm-foundation@lists.llvm.org>Foundation mailing
 list</a>.</p><h2 id=corporate-relicensing-agreement>Corporate Relicensing Agreement</h2><p>Corporations may sign an agreement to relicense their contributions to LLVM
 under the new license
-<a href="https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c">with
-DocuSign</a>. This
-is our preferred mechanism for collecting signatures. However, if your company
-requires it, you can print out
-<a href="https://drive.google.com/open?id=1FiHyH__qqr6Ki2RXDEAcP7SEYFhsawNo">this PDF of the
-agreement</a>,
-sign it, scan it, and send the signed version as a PDF attachment to the
+<a href="https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c">with DocuSign</a>
+. This is our preferred mechanism for collecting signatures. However, if your
+company requires it, you can print out
+<a href="https://drive.google.com/open?id=1FiHyH__qqr6Ki2RXDEAcP7SEYFhsawNo">this PDF of the agreement</a>
+, sign it, scan it, and send the signed version as a PDF attachment to the
 <a href=mailto://board@llvm.org>LLVM
 Foundation Board</a>. Further, if your company has a
 specific concern or issue with the agreement, please reach out to the
 <a href=mailto://board@llvm.org>the
 board</a> and we&rsquo;ll try to help.</p><p><strong>Companies that have Signed:</strong></p><div class=book-expand><label><div class="book-expand-head flex justify-between"><span>Expand</span>
-<span>↕</span></div><input type=checkbox class=hidden><div class="book-expand-content markdown-inner"><ul><li>AMD</li><li>ARM</li><li>Access Softek</li><li>Andes Technology</li><li>Apple</li><li>Argonne National Laboratory</li><li>Autodesk</li><li>Azul Systems, Inc.</li><li>BUGSENG srl</li><li>Barcelona Supercomputing Center</li><li>Battelle Memorial Institute Pacific Northwest Division operator of Pacific Northwest National Laboratory</li><li>CERN</li><li>Ceemple Ltd.</li><li>Citus Data</li><li>Cobham Gaisler AB</li><li>CodeWeavers</li><li>Codeplay</li><li>Cray</li><li>Embecosm Limited</li><li>EnterpriseDB</li><li>Ericsson</li><li>Facebook</li><li>Fermi Research Alliance, LLC, operator of Fermi National Accelerator Laboratory</li><li>Google</li><li>GrammaTech, Inc</li><li>Graphcore</li><li>Huawei</li><li>IBM</li><li>Imagination Technologies</li><li>Intel</li><li>JetBrains</li><li>Julia Computing, Inc.</li><li>Linaro</li><li>Linguamatics</li><li>M-Labs Limited</li><li>Microsoft</li><li>Mozilla</li><li>Nvidia</li><li>Octasic Inc.</li><li>PTScientists GmbH</li><li>Qualcomm</li><li>QuarksLab</li><li>RT-RK Computer Based Systems LLC</li><li>RWTH Aachen University, ITC</li><li>Red Hat</li><li>RemObjects Software</li><li>SAP SE</li><li>SAS Institute Inc.</li><li>ST Microelectronics</li><li>Sony</li><li>Synopsys, Inc.</li><li>The FreeBSD Foundation</li><li>The Linux Foundation</li><li>The NetBSD Foundation</li><li>The Qt Company</li><li>UIUC</li><li>UT-Battelle, LLC (operating Oak Ridge National Laboratory)</li><li>Uberchord Engineering GmbH</li><li>Wave Computing, Inc. (owner of MIPS, etc.)</li><li>lowRISC</li></ul></div></label></div><p>A list of companies that have been contacted about relicensing is below. This is
+<span>↕</span></div><input type=checkbox class=hidden><div class="book-expand-content markdown-inner"><ul><li>AMD</li><li>ARM</li><li>Access Softek</li><li>Andes Technology</li><li>Apple</li><li>Argonne National Laboratory</li><li>Autodesk</li><li>Azul Systems, Inc.</li><li>BUGSENG srl</li><li>Barcelona Supercomputing Center</li><li>Battelle Memorial Institute Pacific Northwest Division operator of Pacific
+Northwest National Laboratory</li><li>CERN</li><li>Ceemple Ltd.</li><li>Citus Data</li><li>Cobham Gaisler AB</li><li>CodeWeavers</li><li>Codeplay</li><li>Cray</li><li>Embecosm Limited</li><li>EnterpriseDB</li><li>Ericsson</li><li>Facebook</li><li>Fermi Research Alliance, LLC, operator of Fermi National Accelerator
+Laboratory</li><li>Google</li><li>GrammaTech, Inc</li><li>Graphcore</li><li>Huawei</li><li>IBM</li><li>Imagination Technologies</li><li>Intel</li><li>JetBrains</li><li>Julia Computing, Inc.</li><li>Linaro</li><li>Linguamatics</li><li>M-Labs Limited</li><li>Microsoft</li><li>Mozilla</li><li>Nvidia</li><li>Octasic Inc.</li><li>PTScientists GmbH</li><li>Qualcomm</li><li>QuarksLab</li><li>RT-RK Computer Based Systems LLC</li><li>RWTH Aachen University, ITC</li><li>Red Hat</li><li>RemObjects Software</li><li>SAP SE</li><li>SAS Institute Inc.</li><li>ST Microelectronics</li><li>Sony</li><li>Synopsys, Inc.</li><li>The FreeBSD Foundation</li><li>The Linux Foundation</li><li>The NetBSD Foundation</li><li>The Qt Company</li><li>UIUC</li><li>UT-Battelle, LLC (operating Oak Ridge National Laboratory)</li><li>Uberchord Engineering GmbH</li><li>Wave Computing, Inc. (owner of MIPS, etc.)</li><li>lowRISC</li></ul></div></label></div><p>A list of companies that have been contacted about relicensing is below. This is
 primarily intended to avoid duplicate work within these companies trying to get
 things signed and set up.</p><div class=book-expand><label><div class="book-expand-head flex justify-between"><span>Expand</span>
 <span>↕</span></div><input type=checkbox class=hidden><div class="book-expand-content markdown-inner"><ul><li>INRIA</li><li>LLNL</li><li>MIT</li><li>Path Scale</li><li>Samsung</li></ul></div></label></div><h2 id=next-steps-and-schedule-estimate>Next Steps and Schedule Estimate</h2><p>Our goal is to openly and transparently communicate our process, including the
@@ -94,5 +90,5 @@ contributors to regain commit access.</li></ul><p>When these steps are done, all
 structure, and we expect that a significant amount of prior contributions will
 be relicensed under the new structure. At that point, we will scope and define
 the process for chasing down the long tail of prior contributions that are not
-covered and resolve them on a case-by-case basis.</p></article><footer class=book-footer><div class="flex justify-between"><div><a class="flex align-center" href=https://github.com/llvm/llvm-foundation-www/commit/89ed1edcb618ef2d739da2d36da256f6d6955847 title="Last modified by Anton Korobeynikov | Apr 8, 2020" target=_blank rel=noopener><img src=/svg/calendar.svg class=book-icon alt=Calendar>
-<span>Apr 8, 2020</span></a></div></div></footer><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><nav id=TableOfContents><ul><li><a href=#llvm-relicensing-effort>LLVM Relicensing Effort</a><ul><li><a href=#status-and-documents>Status and Documents</a></li><li><a href=#new-file-header>New File Header</a></li><li><a href=#individual-relicensing-agreement>Individual Relicensing Agreement</a></li><li><a href=#corporate-relicensing-agreement>Corporate Relicensing Agreement</a></li><li><a href=#next-steps-and-schedule-estimate>Next Steps and Schedule Estimate</a></li></ul></li></ul></nav></aside></main></body></html>
+covered and resolve them on a case-by-case basis.</p></article><footer class=book-footer><div class="flex justify-between"><div><a class="flex align-center" href=https://github.com/llvm/llvm-foundation-www/commit/0943dac473015146aebb5872294b18d315aa3904 title="Last modified by Mike Edwards | Jan 13, 2021" target=_blank rel=noopener><img src=/svg/calendar.svg class=book-icon alt=Calendar>
+<span>Jan 13, 2021</span></a></div></div></footer><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><nav id=TableOfContents><ul><li><a href=#llvm-relicensing-effort>LLVM Relicensing Effort</a><ul><li><a href=#status-and-documents>Status and Documents</a></li><li><a href=#new-file-header>New File Header</a></li><li><a href=#individual-relicensing-agreement>Individual Relicensing Agreement</a></li><li><a href=#corporate-relicensing-agreement>Corporate Relicensing Agreement</a></li><li><a href=#next-steps-and-schedule-estimate>Next Steps and Schedule Estimate</a></li></ul></li></ul></nav></aside></main></body></html>
