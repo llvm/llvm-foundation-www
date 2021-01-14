@@ -63,7 +63,6 @@ Until we have found a permanent place for our work backlog, Christian
 created a temporary [kanban board](https://github.com/ChristianKuehnel/iwg-workspace/projects/1)
 so we can track the work.
 
-
 ## Proposal for day-to-day work mode
 
 This section describes a proposal for the flow for the day to day work of the
