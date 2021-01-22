@@ -127,7 +127,8 @@ ideas for work items in a
 * [temporary github project](https://github.com/ChristianKuehnel/iwg-workspace)
   until we decided for a permanent location
 * [Kanban board](https://github.com/ChristianKuehnel/iwg-workspace/projects/1)
-* [Discourse channel](https://llvm.discourse.group/c/infrastructure/15)
+* [Discourse category](https://llvm.discourse.group/c/infrastructure/iwg/42)
+* [Discord channel](https://discord.com/channels/636084430946959380/802119671780081674)
 * Email address: [iwg@llvm.org](mailto:iwg@llvm.org)
 * Original proposal: ([Google Doc](https://docs.google.com/document/d/1T7dJ9DgrgaJHN1RZ5vhJJ2D9CBwMQl6lOdN41QPsnAg/),
   [PDF Export](/static/documents/iwg/Proposal_Infrastructure_Working_Group_2020-01-11.pdf))
