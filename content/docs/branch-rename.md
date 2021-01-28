@@ -124,3 +124,8 @@ to 'main'
 * We have sent emails out to other repository owners to enlist their assistance
   with renaming
 * We still look good to have this effort wrapped up by the 28th of this month
+
+### As of 2021.01.28
+
+* The removal of the "master" branch from all repositories in the llvm org on
+  GitHub has been completed.
