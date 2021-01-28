@@ -127,5 +127,5 @@ to 'main'
 
 ### As of 2021.01.28
 
-* The removal of the "master" branch from all repositories in the llvm org on
+* The removal of the "master" branch from all repositories in the LLVM org on
   GitHub has been completed.
