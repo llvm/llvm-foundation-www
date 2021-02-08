@@ -32,7 +32,7 @@ infrastructure improvements. The implementation of the changes and the
 operations of our infrastructure can be offloaded to community members or
 contractors. This way we keep the workload for the working group low.
 
-Working group members should have the oppurtunity to dedicate 4-8 hours per
+Working group members should have the opportunity to dedicate 4-8 hours per
 week on a regular basis in the initial phase, as we expect to have a significant
 pile of decisions to take. It should be less than 4 hours once the roadmap has
 become more stable.
@@ -41,21 +41,21 @@ We would like to have broad and diverse community representation within the
 working group as we are convinced such groups deliver the best results. Please
 contact us if you want to participate.
 
-Useful skill to bring to the committee or aquire while working there:
+Useful skill to bring to the committee or acquire while working there:
 
 * Managing or hosting software development infrastructure
 * Designing software development workflows and infrastructure
 * Understanding needs of contributors and downstream users
 * IT security and privacy
 * Coordinating work in Open Source Projects
-* Tools and technologies currently used in the Infrastracture
+* Tools and technologies currently used in the Infrastructure
   (e.g. Mailman, AWS, GCP, Sphinx, GitHub, WWW development, buildbots,
   Phabricator, ...)
 
 Initial members:
 
 * Christian Kühnel
-* ... we're recruting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
+* ... we're recruiting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
 ## Proposal for getting started
 
@@ -72,7 +72,7 @@ parts of a statement of work (SOW) are not clear or feasible.
 
 1. Anyone in the LLVM community (including contractors) can propose a change by
    creating an issue on the issue tracker.
-1. The working group will create an statement of work (SOW) based on the  
+1. The working group will create a statement of work (SOW) based on the  
    proposals they want to move forward on. The SOW will consist of a problem
    description and (functional and non-functional) requirements for a solution
    of the problem. The SOW shall be made public and discussed with the
@@ -81,7 +81,7 @@ parts of a statement of work (SOW) are not clear or feasible.
    if and how it shall be implemented (community contribution, paid community
    bounty, contractor)
     1. If it requires spending money, the working group will propose the change
-       to the board and go through an Request for Proposal process (RFP). The
+       to the board and go through a Request for Proposal process (RFP). The
        details of that RFP process need to be worked out.
     1. The board will then review and approve the expenditure.
     1. The Foundation will set up the contract and manage the payments.
@@ -103,7 +103,7 @@ To keep the workload for the IWG low and scale up the work, the implementation
 of changes shall be mostly done by a 3rd party.
 
 *Operations of services* shall be done by contractors with whom we can have
-Service Level Agreements (availibility, response times, recovery time,
+Service Level Agreements (availability, response times, recovery time,
 handling GDPR requests, ...).
 
 For *implementing individual changes* there are a few options:
@@ -112,7 +112,7 @@ For *implementing individual changes* there are a few options:
   implement the change.
 * Community bounty: We're offering a bounty for a community member to implement
   the change. This is a chance to give back something to community members
-  who are not paid for their contirbutions by some company or organisation.
+  who are not paid for their contributions by some company or organisation.
 * Contractor: In case something is very large or we can't find anyone to do it
   the work can be handed off to a contractor.
 
