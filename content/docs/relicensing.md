@@ -216,7 +216,7 @@ is achievable, this is not a guarantee:
 
 * ~January 2019: Coincident with the final release branch date for LLVM 8.0,
   we will install the new developer policy. To ensure that all contributors
-  have agreed to the terms of the new developer policy, we will recind commit
+  have agreed to the terms of the new developer policy, we will rescind commit
   access from all contributors who are not covered by a corporate or
   individual agreement at that point. We will develop a policy for affected
   contributors to regain commit access.
