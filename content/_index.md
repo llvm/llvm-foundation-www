@@ -13,7 +13,7 @@ programs:
 
 * Educational Outreach
 * Grants & Scholarships
-* Women in Compilers & Tools.
+* Diversity and Inclusion.
 
 The Educational Outreach program is our largest program and includes educational
 materials and events related to the LLVM Project, compiler technology, and
@@ -31,8 +31,8 @@ support student presenter travel to the LLVM Developers’ Meetings and other
 conferences that students may attend and present their LLVM and compiler related
 work.
 
-Lastly, our Women in Compilers & Tools program aims to increase female
-participation in the LLVM Project and the field of compilers and tools. We hope
-to achieve this by increasing awareness of the LLVM project at various technical
-conferences with strong female participation, established a mentor program, and
+Lastly, our Diversity and Inclusion program aims to increase the wide set of diverse
+contributors to participate in the LLVM Project and the field of compilers and tools.
+We hope to achieve this by increasing awareness of the LLVM project at various technical
+conferences with strong participation, established a mentor program, and
 lower barriers of entry for this field.
