@@ -20,7 +20,7 @@ board meeting minutes, tax exemption status, and tax returns.
 
 {{< expand "2021" "..." >}}
 
-* [January 8, 2021](/documents/minutes/2020-01-08-Meeting-Minutes.pdf)
+* [January 8, 2021](/documents/minutes/2021-01-08-Meeting-Minutes.pdf)
 
 {{< /expand >}}
 
