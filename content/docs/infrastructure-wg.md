@@ -124,9 +124,7 @@ ideas for work items in a
 
 ## Links
 
-* [temporary github project](https://github.com/ChristianKuehnel/iwg-workspace)
-  until we decided for a permanent location
-* [Kanban board](https://github.com/ChristianKuehnel/iwg-workspace/projects/1)
+* [GitHub project](https://github.com/llvm/llvm-iwg)
 * [Discourse category](https://llvm.discourse.group/c/infrastructure/iwg/42)
 * [Discord channel](https://discord.com/channels/636084430946959380/802119671780081674)
 * Email address: [iwg@llvm.org](mailto:iwg@llvm.org)
