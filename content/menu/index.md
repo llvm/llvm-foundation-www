@@ -10,4 +10,4 @@ headless: true
 - [Renaming]({{< relref "/docs/branch-rename" >}})
 - [Infrastructure]({{< relref "/docs/infrastructure-wg" >}})
 
-- [Contact Us](mailto://board@llvm.org)
+- [Contact Us](mailto:board@llvm.org)
