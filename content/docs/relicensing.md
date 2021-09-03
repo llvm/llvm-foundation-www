@@ -142,6 +142,7 @@ board](mailto://board@llvm.org) and we'll try to help.
   Northwest National Laboratory
 * CERN
 * Ceemple Ltd.
+* Cisco
 * Citus Data
 * Cobham Gaisler AB
 * CodeWeavers
