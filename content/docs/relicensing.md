@@ -140,6 +140,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Barcelona Supercomputing Center
 * Battelle Memorial Institute Pacific Northwest Division operator of Pacific
   Northwest National Laboratory
+* Bluware Inc.
 * CERN
 * Ceemple Ltd.
 * Cisco
