@@ -161,6 +161,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Huawei
 * IBM
 * Imagination Technologies
+* Imperial College London
 * Intel
 * JetBrains
 * Julia Computing, Inc.
