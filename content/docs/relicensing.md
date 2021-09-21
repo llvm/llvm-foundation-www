@@ -170,6 +170,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * M-Labs Limited
 * Microsoft
 * Mozilla
+* Newton Nordic
 * Nvidia
 * Octasic Inc.
 * PTScientists GmbH
