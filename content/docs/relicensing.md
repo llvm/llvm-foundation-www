@@ -168,6 +168,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Linaro
 * Linguamatics
 * M-Labs Limited
+* Mentor Graphics Corporation
 * Microsoft
 * Mozilla
 * Newton Nordic
