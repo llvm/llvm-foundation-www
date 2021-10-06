@@ -186,6 +186,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * ST Microelectronics
 * Sony
 * Synopsys, Inc.
+* The Aerospace Corporation
 * The FreeBSD Foundation
 * The Linux Foundation
 * The NetBSD Foundation
