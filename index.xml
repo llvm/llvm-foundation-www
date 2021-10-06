@@ -6,10 +6,10 @@ Monthly Financial Reports 2020 ... November 2020 ... * [Budget Detail](/document
 Governance Articles of Incorporation
 Bylaws
 Conflict of Interest Policy
-Board Meeting Minutes 2021 ... August 4, 20201
+Board Meeting Minutes 2021 ... September 3, 2021
+August 4, 20201
 July 2, 2021
-June 3, 2021
-May 7, 2021</description></item><item><title>Relicensing</title><link>https://foundation.llvm.org/docs/relicensing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://foundation.llvm.org/docs/relicensing/</guid><description>LLVM Relicensing Effort The LLVM relicensing effort aims to modernize the LLVM Licensing structure and developer policy. The high level goals of the relicensing effort are to:
+June 3, 2021</description></item><item><title>Relicensing</title><link>https://foundation.llvm.org/docs/relicensing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://foundation.llvm.org/docs/relicensing/</guid><description>LLVM Relicensing Effort The LLVM relicensing effort aims to modernize the LLVM Licensing structure and developer policy. The high level goals of the relicensing effort are to:
 Encourage ongoing contributions to LLVM by preserving a low barrier to entry for contributors Protect users of LLVM code by providing explicit patent protection in the license Protect contributors to the LLVM project by explicitly scoping their patent contributions with this license Eliminate the schism between runtime libraries and the rest of the compiler that makes it difficult to move code between them Ensure that LLVM runtime libraries may be used by other open source and proprietary compilers This project involves sensitive legal issues and has been a multi-year effort.</description></item><item><title>Sponsors</title><link>https://foundation.llvm.org/docs/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://foundation.llvm.org/docs/sponsors/</guid><description>Sponsors Join our sponsors!
 Diamond Sponsors Apple
 QuIC
