@@ -43,11 +43,7 @@ title: Sponsors
 
 <--->
 
-{{< figure src="/sponsors/microsoft.png" caption="Microsoft" link="http://microsoft.com">}}
-
-<--->
-
-{{< figure src="/sponsors/Intel-logo.png" caption="Intel" link="http://intel.com">}}
+{{< figure src="/sponsors/Intel-logo.jpg" caption="Intel" link="http://intel.com">}}
 
 <--->
 
@@ -94,19 +90,10 @@ title: Sponsors
 
 <--->
 
-{{< figure src="/sponsors/Khronos_100px_June18.jpg" caption="Khronos Group" link="https://www.khronos.org/">}}
-
-<--->
-
 {{< figure src="/sponsors/Reservoir.png" caption="Reservoir Labs" link="https://www.reservoir.com/">}}
 
-<--->
-
-{{< figure src="/sponsors/CL_Logo_Horizontal-2.svg" caption="Cockroach Labs" link="https://www.cockroachlabs.com/">}}
 
 <--->
-
-{{< figure src="/sponsors/TILogo.jpg" caption="Texas Instruments" link="http://www.ti.com/">}}
 
 {{< /columns >}}
 
@@ -116,15 +103,7 @@ title: Sponsors
 
 <--->
 
-{{< figure src="/sponsors/Mythic.png" caption="Mythic" link="https://www.mythic-ai.com/">}}
-
-<--->
-
 {{< figure src="/sponsors/MediaTek_logo_tagline.png" caption="MediaTek" link="https://www.mediatek.com/">}}
-
-<--->
-
-[Annapurna Labs](https://www.amazon.jobs/en/landing_pages/annapurna%20labs)
 
 <--->
 
