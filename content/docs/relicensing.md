@@ -128,6 +128,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 
 {{< expand >}}
 
+* 10x Genomics
 * 3DExcite GmbH
 * AMD
 * ARM
