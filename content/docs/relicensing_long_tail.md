@@ -28,6 +28,10 @@ them with a DocuSign agreement that they can sign online to cover anything they
 personally contributed. The web form will also collect any companies or academic
 institutions that may own rights to some of their contributions so that we can
 cover them with the corporate agreement below.
+If for any reason they cannot sign the DocuSign agreement, we also accept an
+email sent to license-questions@llvm.org in which they explicitly agree to offer
+their past contributions to LLVM under the Apache 2.0 WITH LLVM exception
+license.
 
 We do ask that individuals generally sign the individual agreement even if they
 think their contributions are covered by a corporate agreement.

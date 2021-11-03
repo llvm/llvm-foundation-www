@@ -60,13 +60,14 @@ We also have worked with our legal counsel to build several more boring pieces:
 * A corporate agreement to relicense that is available for companies to sign
   and has begun to be distributed to some of the known and/or large contributors
 
-We have installed the new developer policy and added the new license on January
-19th 2019 after the LLVM 8.0 release had branched.
+The new license was added and changes to the developer policy were completed on
+January 19, 2019 after the LLVM 8.0 release was branched.
 
 We are currently collecting relicensing agreements from copyright holders of
 contributions before 19th of January 2019. While we already have well over 90%
-of code covered, we are still working through the long tail. Help is very much
-appreciated with that. Please have a look at our
+of code covered, we are still working through the long tail. We are seeking
+volunteers to help us reach individuals and corporations who have not signed the
+relicense agreements. For full details on how to help, please see our
 [long tail relicensing page](({{< relref "/docs/relicensing_long_tail" >}})) for
 more details.
 
