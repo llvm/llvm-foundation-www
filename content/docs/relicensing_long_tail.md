@@ -3,7 +3,7 @@ title: Relicensing Long Tail
 bookToc: true
 ---
 
-# LLVM Relicensing: Long tail of individuals and corporations without an agreement yet
+# Long tail of individuals and corporations without a relicensing agreement yet
 
 The LLVM relicensing effort is currently at the stage where we collect
 agreements from individuals and corporations owning the copyright of
@@ -31,7 +31,6 @@ cover them with the corporate agreement below.
 
 We do ask that individuals generally sign the individual agreement even if they
 think their contributions are covered by a corporate agreement.
-
 
 ## Corporations
 
