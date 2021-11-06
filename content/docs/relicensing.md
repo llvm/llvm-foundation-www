@@ -60,19 +60,23 @@ We also have worked with our legal counsel to build several more boring pieces:
 * A corporate agreement to relicense that is available for companies to sign
   and has begun to be distributed to some of the known and/or large contributors
 
-We currently plan to install the new developer policy and add the new license in
-January 2019 after the LLVM 8.0 release has branched.
+The new license was added and changes to the developer policy were completed on
+January 19, 2019 after the LLVM 8.0 release was branched.
 
-Once that is done, we will still need need to:
+We are currently collecting relicensing agreements from copyright holders of
+contributions before 19th of January 2019. While we already have well over 90%
+of code covered, we are still working through the long tail. We are seeking
+volunteers to help us reach individuals and corporations who have not signed the
+relicense agreements. For full details on how to help, please see our
+[long tail relicensing page](({{< relref "/docs/relicensing_long_tail" >}})) for
+more details.
 
-* Enact a process for getting 100% of existing code relicensed with the above
-  agreements or rewrite/remove the code
-* Drop the old license when the entire codebase is covered under the new
-  license
+Once the codebase is fully covered by the new license, we'll drop the old
+license.
 
 ## New File Header
 
-The new file header will be:
+The new file header is:
 
     //===-- file/name - File description ----------------------------\*- C++ -\*-===//
     //
@@ -95,7 +99,7 @@ Some notable aspects of the new header:
 ## Individual Relicensing Agreement
 
 Individuals need to complete [a web
-form](https://goo.gl/forms/X4HiyYRcRHOnTSvC3) that we will use to drive the
+form](https://goo.gl/forms/X4HiyYRcRHOnTSvC3) that we use to drive the
 relicensing process. Part of that form will prompt them with a DocuSign
 agreement that they can sign online to cover anything they personally
 contributed. It will also collect any companies or academic institutions that
@@ -103,12 +107,7 @@ may own right to some of their contributions so that we can cover them with the
 corporate agreement below.
 
 We do ask that individuals generally sign the individual agreement even if they
-think their contributions are probably covered by a corporate agreement. It will
-be fairly expensive for us to validate each case where an individual has not
-signed that \*all\* of their contributions are covered by a corporate
-agreement. The individual agreements let us not spend time and money on this by
-covering things either way. We think this is likely simpler and definitely less
-expensive. Still, we are leaving all of the options open.
+think their contributions are probably covered by a corporate agreement.
 
 Feel free to send questions concerns about this to the [Foundation mailing
 list](mailto://llvm-foundation@lists.llvm.org).
@@ -215,23 +214,3 @@ things signed and set up.
 * Samsung
 
 {{< /expand >}}
-
-## Next Steps and Schedule Estimate
-
-Our goal is to openly and transparently communicate our process, including the
-expected next steps and a timeframe that can be used for planning. That said, we
-are dealing with a lot of unknowns, so while we believe the following schedule
-is achievable, this is not a guarantee:
-
-* ~January 2019: Coincident with the final release branch date for LLVM 8.0,
-  we will install the new developer policy. To ensure that all contributors
-  have agreed to the terms of the new developer policy, we will rescind commit
-  access from all contributors who are not covered by a corporate or
-  individual agreement at that point. We will develop a policy for affected
-  contributors to regain commit access.
-
-When these steps are done, all new contributions will be under the new license
-structure, and we expect that a significant amount of prior contributions will
-be relicensed under the new structure. At that point, we will scope and define
-the process for chasing down the long tail of prior contributions that are not
-covered and resolve them on a case-by-case basis.
