@@ -19,6 +19,7 @@ board meeting minutes, tax exemption status, and tax returns.
 ## Board Meeting Minutes
 
 {{< expand "2021" "..." >}}
+* [October 1, 2021](/documents/minutes/2021-10-01-Meeting-Minutes.pdf)
 
 * [September 3, 2021](/documents/minutes/2021-09-03-Meeting-Minutes.pdf)
 
