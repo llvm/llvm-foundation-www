@@ -197,6 +197,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Uberchord Engineering GmbH
 * Wave Computing, Inc. (owner of MIPS, etc.)
 * lowRISC
+* X-Rite
 * XMOS
 
 {{< /expand >}}
