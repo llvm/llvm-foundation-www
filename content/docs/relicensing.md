@@ -184,6 +184,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * RemObjects Software
 * SAP SE
 * SAS Institute Inc.
+* SiFive
 * ST Microelectronics
 * Sony
 * Synopsys, Inc.
@@ -208,7 +209,6 @@ things signed and set up.
 
 {{< expand >}}
 
-* INRIA
 * LLNL
 * MIT
 * Path Scale
