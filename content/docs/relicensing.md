@@ -68,8 +68,8 @@ contributions before 19th of January 2019. While we already have well over 90%
 of code covered, we are still working through the long tail. We are seeking
 volunteers to help us reach individuals and corporations who have not signed the
 relicense agreements. For full details on how to help, please see our
-[long tail relicensing page](({{< relref "/docs/relicensing_long_tail" >}})) for
-more details.
+[long tail relicensing page]({{< relref "relicensing_long_tail" >}}) for more
+details.
 
 Once the codebase is fully covered by the new license, we'll drop the old
 license.
