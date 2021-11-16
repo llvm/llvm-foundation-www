@@ -52,12 +52,12 @@ may not have heard about the LLVM relicensing project yet is as follows:
 > an Apache 2 license.  The new license went into effect in Jan 2019, and the
 > project is looking to get permission from contributors to move their pre-2019
 > contributions to the new licensing model (more info here:
-> https://foundation.llvm.org/docs/relicensing_long_tail ).  Our newer
+> <https://foundation.llvm.org/docs/relicensing_long_tail> ).  Our newer
 > contributions have all been covered under the new license approach.
 >
 > Can we/you sign the docusign form at
-> https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c
-> to give this permission?  I’d like to prevent <<our company>> from showing up
+> <https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c>
+> to give this permission?  I’d like to prevent _our company_ from showing up
 > on the “shame” list :-)
 
 If you have any questions, remarks or suggestions, please contact us at
