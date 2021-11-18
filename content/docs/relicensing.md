@@ -154,6 +154,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * EnterpriseDB
 * Ericsson
 * Facebook
+* Faurecia
 * Fermi Research Alliance, LLC, operator of Fermi National Accelerator
   Laboratory
 * Google
