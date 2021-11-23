@@ -157,6 +157,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Faurecia
 * Fermi Research Alliance, LLC, operator of Fermi National Accelerator
   Laboratory
+* Garmin International
 * Google
 * GrammaTech, Inc
 * Graphcore
