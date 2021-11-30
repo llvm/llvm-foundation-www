@@ -195,6 +195,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * The Linux Foundation
 * The NetBSD Foundation
 * The Qt Company
+* VMWare, Inc
 * UIUC
 * UT-Battelle, LLC (operating Oak Ridge National Laboratory)
 * Uberchord Engineering GmbH
