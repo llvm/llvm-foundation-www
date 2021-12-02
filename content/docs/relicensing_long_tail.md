@@ -57,8 +57,7 @@ may not have heard about the LLVM relicensing project yet is as follows:
 >
 > Can we/you sign the docusign form at
 > <https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c>
-> to give this permission?  I’d like to prevent _our company_ from showing up
-> on the “shame” list :-)
+> to give this permission?
 
 If you have any questions, remarks or suggestions, please contact us at
 license-questions@llvm.org.
