@@ -196,6 +196,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * The NetBSD Foundation
 * The Qt Company
 * VMWare, Inc
+* University of Delaware
 * UIUC
 * UT-Battelle, LLC (operating Oak Ridge National Laboratory)
 * Uberchord Engineering GmbH
@@ -203,6 +204,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * lowRISC
 * X-Rite
 * XMOS
+* Yandex LLC
 
 {{< /expand >}}
 
