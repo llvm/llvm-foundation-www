@@ -152,6 +152,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Cray
 * Embecosm Limited
 * EnterpriseDB
+* ELTE-Soft Non-profit Ltd.
 * Ericsson
 * Facebook
 * Faurecia
