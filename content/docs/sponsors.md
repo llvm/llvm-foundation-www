@@ -77,7 +77,7 @@ title: Sponsors
 
 {{< columns >}}
 
-{{< figure src="/sponsors/Siemens.png" caption="Siemens" link="https://www.siemens.com/">}}
+{{< figure src="/sponsors/Siemens.jpg" caption="Siemens" link="https://www.siemens.com/">}}
 
 <--->
 
