@@ -34,6 +34,11 @@ title: Sponsors
 
 {{< /columns >}}
 
+{{< columns >}}
+
+{{< figure src="/sponsors/Meta.jpg" caption="Meta" link="http://www.meta.com">}}
+
+{{< /columns >}}
 
 ## Gold Sponsors
 
@@ -57,25 +62,30 @@ title: Sponsors
 
 <--->
 
-{{< figure src="/sponsors/FB-fLogo-Blue-broadcast-2.png" caption="Facebook" link="http://facebook.com/">}}
 
 <--->
 
 {{< figure src="/sponsors/Huawei-logo.png" caption="Huawei" link="http://www.huawei.com/">}}
 
+
 <--->
 
 {{< figure src="/sponsors/psf_pos.jpg" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
+
 
 {{< /columns >}}
 
 {{< columns >}}
 
-{{< figure src="/sponsors/Mentor-ASB-Logo-Black-Hires.png" caption="Mentor" link="https://www.mentor.com/">}}
+{{< figure src="/sponsors/Siemens.png" caption="Siemens" link="https://www.siemens.com/">}}
 
 <--->
 
+{{< figure src="/sponsors/Nvidia.jpg" caption="Nvidia" link="https://www.nvidia.com/">}}
+
 <--->
+
+{{< figure src="/sponsors/AMD.jpg" caption="AMD" link="https://www.amd.com/">}}
 
 <--->
 
