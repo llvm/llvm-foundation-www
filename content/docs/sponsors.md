@@ -38,6 +38,10 @@ title: Sponsors
 
 {{< figure src="/sponsors/Meta.jpg" caption="Meta" link="http://www.meta.com">}}
 
+<--->
+
+<--->
+
 {{< /columns >}}
 
 ## Gold Sponsors
@@ -59,8 +63,6 @@ title: Sponsors
 {{< columns >}}
 
 {{< figure src="/sponsors/synopsys.jpg" caption="Synopsys" link="http://synopsys.com">}}
-
-<--->
 
 
 <--->
@@ -109,7 +111,7 @@ title: Sponsors
 
 {{< columns >}}
 
-{{< figure src="/sponsors/xilinx-logo-red-black.png" caption="Xilinx" link="https://www.xilinx.com/">}}
+{{< figure src="/sponsors/Mozilla.png" caption="Mozilla" link="https://www.mozilla.com/">}}
 
 <--->
 
