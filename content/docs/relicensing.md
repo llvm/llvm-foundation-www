@@ -150,6 +150,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * CodeWeavers
 * Codeplay
 * Cray
+* Dyalog Ltd
 * Embecosm Limited
 * EnterpriseDB
 * ELTE-Soft Non-profit Ltd.
