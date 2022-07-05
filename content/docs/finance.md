@@ -38,7 +38,7 @@ the Foundation.
   {{< expand "June 2022" "..." >}}
    * [Budget Detail](/documents/finance/statements/2022/6_June/LLVM_Foundation_-_Budget_Detail.pdf)
    * [Monthly Reports](/documents/finance/statements/2022/6_June/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{< /expand >}}
+  {{< /expand >}} -->
   {{< expand "May 2022" "..." >}}
    * [Budget Detail](/documents/finance/statements/2022/5_May/LLVM_Foundation_-_Budget_Detail.pdf)
    * [Monthly Reports](/documents/finance/statements/2022/5_May/LLVM_Foundation_-_Monthly_Reports.pdf)
@@ -50,7 +50,7 @@ the Foundation.
   {{< expand "March 2022" "..." >}}
    * [Budget Detail](/documents/finance/statements/2022/3_March/LLVM_Foundation_-_Budget_Detail.pdf)
    * [Monthly Reports](/documents/finance/statements/2022/3_March/LLVM_Foundation_-_Monthly_Reports.pdf)
-  {{< /expand >}} -->
+  {{< /expand >}}
   {{< expand "February 2022" "..." >}}
    * [Budget Detail](/documents/finance/statements/2022/2_February/LLVM_Foundation_-_Budget_Detail.pdf)
    * [Monthly Reports](/documents/finance/statements/2022/2_February/LLVM_Foundation_-_Monthly_Reports.pdf)
