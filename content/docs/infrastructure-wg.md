@@ -55,7 +55,8 @@ Useful skill to bring to the committee or acquire while working there:
 Members (in alphabetical order):
 
 * Anton Korobeynikov
-* Christian Kühnel
+* Christian Kühne
+* Luke Nihlen
 * Wei Wu
 * ... we're recruiting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
