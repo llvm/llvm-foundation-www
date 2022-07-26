@@ -17,7 +17,9 @@ board meeting minutes, tax exemption status, and tax returns.
 * [Conflict of Interest Policy](/documents/other/LLVMF-Conflict-of-Interest-Policy-00591778-2.pdf)
 
 ## Board Meeting Minutes
+
 {{< expand "2022" "..." >}}
+
 * [May 6, 2022](/documents/minutes/2022-05-06-Meeting-Minutes.pdf)
 
 * [April 1, 2022](/documents/minutes/2022-04-01-Meeting-Minutes.pdf)
@@ -31,6 +33,7 @@ board meeting minutes, tax exemption status, and tax returns.
 {{< /expand >}}
 
 {{< expand "2021" "..." >}}
+
 * [December 8, 2021](/documents/minutes/2021-12-08-Meeting-Minutes.pdf)
 
 * [November 3, 2021](/documents/minutes/2021-11-03-Meeting-Minutes.pdf)
