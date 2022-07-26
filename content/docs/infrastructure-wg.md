@@ -55,6 +55,7 @@ Useful skill to bring to the committee or acquire while working there:
 Initial members:
 
 * Christian Kühnel
+* Anton Korobeynikov
 * ... we're recruiting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
 ## Proposal for getting started
