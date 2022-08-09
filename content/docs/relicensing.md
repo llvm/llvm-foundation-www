@@ -172,6 +172,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Julia Computing, Inc.
 * Linaro
 * Linguamatics
+* LLNL
 * M-Labs Limited
 * Mentor Graphics Corporation
 * Microsoft
@@ -216,7 +217,6 @@ things signed and set up.
 
 {{< expand >}}
 
-* LLNL
 * MIT
 * Path Scale
 * Samsung
