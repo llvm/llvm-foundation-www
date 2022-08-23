@@ -55,7 +55,6 @@ Useful skill to bring to the committee or acquire while working there:
 Members (in alphabetical order):
 
 * Anton Korobeynikov
-* Christian Kühne
 * Luke Nihlen
 * Mishal Shah
 * Wei Wu
