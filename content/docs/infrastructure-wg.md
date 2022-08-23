@@ -57,6 +57,7 @@ Members (in alphabetical order):
 * Anton Korobeynikov
 * Christian Kühne
 * Luke Nihlen
+* Mishal Shah
 * Wei Wu
 * ... we're recruiting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
