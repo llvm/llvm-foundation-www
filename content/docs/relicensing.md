@@ -160,6 +160,7 @@ board](mailto://board@llvm.org) and we'll try to help.
 * Fermi Research Alliance, LLC, operator of Fermi National Accelerator
   Laboratory
 * Garmin International
+* Ghent University
 * Google
 * GrammaTech, Inc
 * Graphcore
