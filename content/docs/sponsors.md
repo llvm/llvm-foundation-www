@@ -40,6 +40,8 @@ title: Sponsors
 
 <--->
 
+{{< figure src="/sponsors/Modular_Logo.jpg" caption="Modular" link="https://modular.com">}}
+
 <--->
 
 {{< /columns >}}
