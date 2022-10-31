@@ -52,9 +52,12 @@ Useful skill to bring to the committee or acquire while working there:
   (e.g. Mailman, AWS, GCP, Sphinx, GitHub, WWW development, buildbots,
   Phabricator, ...)
 
-Initial members:
+Members (in alphabetical order):
 
-* Christian Kühnel
+* Anton Korobeynikov
+* Luke Nihlen
+* Mishal Shah
+* Wei Wu
 * ... we're recruiting please contact us at [iwg@llvm.org](mailto:iwg@llvm.org)!
 
 ## Proposal for getting started
