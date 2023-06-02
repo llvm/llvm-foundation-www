@@ -29,7 +29,7 @@ personally contributed. The web form will also collect any companies or academic
 institutions that may own rights to some of their contributions so that we can
 cover them with the corporate agreement below.
 If for any reason they cannot sign the DocuSign agreement, we also accept an
-email sent to license-questions@llvm.org in which they explicitly agree to offer
+email sent to <license-questions@llvm.org> in which they explicitly agree to offer
 their past contributions to LLVM under the Apache 2.0 WITH LLVM exception
 license.
 
@@ -39,7 +39,7 @@ think their contributions are covered by a corporate agreement.
 ## Corporations
 
 When you do reach out to a corporation, please do let us know at
-license-questions@llvm.org. Corporations can sign the agreement to relicense
+<license-questions@llvm.org>. Corporations can sign the agreement to relicense
 their contributions to LLVM under the new license
 [with DocuSign](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5a2bb38c-41c4-4ce0-a26e-52a7eb8ae51c).
 This is our preferred mechanism for collecting signatures.
@@ -60,4 +60,4 @@ may not have heard about the LLVM relicensing project yet is as follows:
 > to give this permission?
 
 If you have any questions, remarks or suggestions, please contact us at
-license-questions@llvm.org.
+<license-questions@llvm.org>.
