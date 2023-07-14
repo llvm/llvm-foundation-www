@@ -20,6 +20,8 @@ board meeting minutes, tax exemption status, and tax returns.
 
 {{< expand "2023" "..." >}}
 
+* [May 26, 2023](/documents/minutes/2023-05-26-Meeting-Minutes.pdf)
+
 * [April 7, 2023](/documents/minutes/2023-04-07-Meeting-Minutes.pdf)
 
 * [March 3, 2023](/documents/minutes/2023-03-03-Meeting-Minutes.pdf)
