@@ -74,7 +74,7 @@ title: Sponsors
 
 <--->
 
-{{< figure src="/sponsors/psf_pos.jpg" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
+{{< figure src="/sponsors/Sony.png" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
 
 
 {{< /columns >}}
