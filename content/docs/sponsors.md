@@ -22,15 +22,15 @@ title: Sponsors
 
 {{< columns >}}
 
+{{< figure src="/sponsors/Arm_logo_blue_150LG.png" caption="ARM" link="http://www.arm.com">}}
+
+<--->
+
 {{< figure src="/sponsors/Google-logo_420_color_2x.png" caption="Google" link="http://www.google.com">}}
 
 <--->
 
 {{< figure src="/sponsors/fastly_logo-01.png" caption="Fastly" link="http://www.fastly.com">}}
-
-<--->
-
-{{< figure src="/sponsors/IBMLogo.jpg" caption="IBM" link="http://www.ibm.com">}}
 
 {{< /columns >}}
 
@@ -50,42 +50,7 @@ title: Sponsors
 
 {{< columns >}}
 
-{{< figure src="/sponsors/Arm_logo_blue_150LG.png" caption="ARM" link="http://www.arm.com">}}
-
-<--->
-
-{{< figure src="/sponsors/Intel-logo.jpg" caption="Intel" link="http://intel.com">}}
-
-<--->
-
 {{< figure src="/sponsors/AccessSoftek.png" caption="Access Softek, Inc." link="https://accesssoftek.com">}}
-
-{{< /columns >}}
-
-{{< columns >}}
-
-{{< figure src="/sponsors/synopsys.jpg" caption="Synopsys" link="http://synopsys.com">}}
-
-
-<--->
-
-{{< figure src="/sponsors/Huawei-logo.png" caption="Huawei" link="http://www.huawei.com/">}}
-
-
-<--->
-
-{{< figure src="/sponsors/Sony.png" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
-
-
-{{< /columns >}}
-
-{{< columns >}}
-
-{{< figure src="/sponsors/Siemens.jpg" caption="Siemens" link="https://www.siemens.com/">}}
-
-<--->
-
-{{< figure src="/sponsors/Nvidia.jpg" caption="Nvidia" link="https://www.nvidia.com/">}}
 
 <--->
 
@@ -93,7 +58,30 @@ title: Sponsors
 
 <--->
 
+{{< figure src="/sponsors/Huawei-logo.png" caption="Huawei" link="http://www.huawei.com/">}}
+
 {{< /columns >}}
+
+{{< columns >}}
+
+{{< figure src="/sponsors/Intel-logo.jpg" caption="Intel" link="http://intel.com">}}
+
+<--->
+
+{{< figure src="/sponsors/Nvidia.jpg" caption="Nvidia" link="https://www.nvidia.com/">}}
+
+<--->
+
+{{< figure src="/sponsors/Siemens.jpg" caption="Siemens" link="https://www.siemens.com/">}}
+
+{{< /columns >}}
+
+{{< columns >}}
+
+{{< figure src="/sponsors/Sony.png" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
+
+{{< /columns >}}
+
 
 
 ## Corporate Supporters
@@ -101,26 +89,6 @@ title: Sponsors
 {{< columns >}}
 
 {{< figure src="/sponsors/MathWorksLogo.png" caption="MathWorks" link="https://www.mathworks.com/">}}
-
-<--->
-
-{{< figure src="/sponsors/Reservoir.png" caption="Reservoir Labs" link="https://www.reservoir.com/">}}
-
-
-<--->
-
-{{< /columns >}}
-
-{{< columns >}}
-
-{{< figure src="/sponsors/Mozilla.png" caption="Mozilla" link="https://www.mozilla.com/">}}
-
-<--->
-
-{{< figure src="/sponsors/MediaTek_logo_tagline.png" caption="MediaTek" link="https://www.mediatek.com/">}}
-
-<--->
-
 
 {{< /columns >}}
 
