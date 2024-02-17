@@ -80,6 +80,10 @@ title: Sponsors
 
 {{< figure src="/sponsors/Sony.png" caption="Sony Interactive Entertainment" link="https://www.playstation.com/en-us/corporate/about/">}}
 
+<--->
+
+<--->
+
 {{< /columns >}}
 
 
@@ -89,6 +93,12 @@ title: Sponsors
 {{< columns >}}
 
 {{< figure src="/sponsors/MathWorksLogo.png" caption="MathWorks" link="https://www.mathworks.com/">}}
+
+<--->
+
+
+<--->
+
 
 {{< /columns >}}
 
