@@ -18,6 +18,13 @@ board meeting minutes, tax exemption status, and tax returns.
 
 ## Board Meeting Minutes
 
+{{< expand "2024" "..." >}}
+
+* [February 2, 2024](/documents/minutes/2024-02-02-Meeting-Minutes.pdf)
+
+{{< /expand >}}
+
+
 {{< expand "2023" "..." >}}
 
 * [December 8, 2023](/documents/minutes/2023-12-08-Meeting-Minutes.pdf)
