@@ -32,7 +32,6 @@ board meeting minutes, tax exemption status, and tax returns.
 
 {{< /expand >}}
 
-
 {{< expand "2023" "..." >}}
 
 * [December 8, 2023](/documents/minutes/2023-12-08-Meeting-Minutes.pdf)
